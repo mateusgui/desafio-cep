@@ -32,5 +32,8 @@
         <env name="PULSE_ENABLED" value="false"/>
         <env name="TELESCOPE_ENABLED" value="false"/>
         <env name="NIGHTWATCH_ENABLED" value="false"/>
+        <env name="VIACEP_RETRY_MS" value="0"/>
+        <env name="VIACEP_RETRY_MS" value="0"/>
+        <env name="VIACEP_INTERVALO_MS" value="0"/>
     </php>
 </phpunit>
